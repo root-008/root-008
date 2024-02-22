@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br>
+🌱 I’m currently learning Flutter and Machine Learning<br>
 
 
 ## 🌐 Socials:
