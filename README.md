@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter and Machine Learning<br>
+🌱 I’m Flutter Developer and AI Engineer<br>
 
 
 ## 🌐 Socials:
